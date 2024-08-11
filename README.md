@@ -3,10 +3,11 @@
 A bot that allows you to send vpngen keys to users  
 Бот, позволяющий отправлять пользователям ключи vpngen  
   
+### ФАЙЛЫ  
 **main.php** — основной файл бота  
 **setting.php** — дополнительный файл с настройками  
   
-СТРУКТУРА БД:  
+### СТРУКТУРА БД   
   
 **users**:  
 | id            | tg_id           | vpn       | ban       | mode      | message   |
